@@ -1,0 +1,3 @@
+seed,case,ospa_mean,ospa_loc_mean,ospa_card_mean,ospa_assign_mean,card_err_mean,fragmentation_count,id_switches,false_confirm_ratio,median_track_life,mean_track_life,peak_confirmed,ospa_rmse,pos_rmse
+1001,Radar-only,87.254121,15.576560,62.874617,51.347492,2.321678,13.000000,13.000000,0.484848,35.000000,60.787879,10.000000,88.486757,51.989694
+1001,Radar+Acoustic,43.960467,1.015162,32.760505,18.973916,0.750583,25.000000,25.000000,0.387755,33.000000,31.469388,6.000000,49.787201,19.708126
